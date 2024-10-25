@@ -4,7 +4,7 @@ Solving numerical analysis problems for elliptic equations using ADI, block trid
 # Tasks
 
 # Task 1: 
-![image](https://github.com/user-attachments/assets/cfbf948e-1cd3-4883-a45b-bf0022bba1e5
+![image](https://github.com/user-attachments/assets/cfbf948e-1cd3-4883-a45b-bf0022bba1e5)
 
 # Task 2:
 ![image](https://github.com/user-attachments/assets/c331d6f2-c465-4705-a4b2-b9bb86909f4c)
